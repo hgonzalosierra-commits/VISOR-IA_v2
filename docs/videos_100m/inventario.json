@@ -1,0 +1,34 @@
+[
+  {
+    "mes": "Enero",
+    "video": "VIDEOS\\Enero_2026\\Enero_2026.MP4",
+    "srt": "VIDEOS\\Enero_2026\\DJI_20260122094638_0001_V.SRT",
+    "fecha_srt": "2026-01-22",
+    "registros_srt": 4086,
+    "frames_video": 4086,
+    "duracion_video_s": 136.3362,
+    "duracion_srt_s": 136.335,
+    "rango_progresiva_dron_m": [
+      0.0,
+      1363.3824651503128
+    ],
+    "sincronizacion": "compatibilidad temporal y conteo; no certifica identidad del archivo",
+    "compatible": true
+  },
+  {
+    "mes": "Agosto",
+    "video": "VIDEOS\\Julio_2026\\Julio_2026.MP4",
+    "srt": "VIDEOS\\Julio_2026\\DJI_20260828091053_0001_V.SRT",
+    "fecha_srt": "2026-08-28",
+    "registros_srt": 4207,
+    "frames_video": 4207,
+    "duracion_video_s": 140.37356666666668,
+    "duracion_srt_s": 140.373,
+    "rango_progresiva_dron_m": [
+      0.0,
+      1363.7966198607794
+    ],
+    "sincronizacion": "compatibilidad temporal y conteo; no certifica identidad del archivo",
+    "compatible": true
+  }
+]

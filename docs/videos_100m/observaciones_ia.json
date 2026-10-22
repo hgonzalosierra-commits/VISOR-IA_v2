@@ -1,0 +1,90 @@
+[
+  {
+    "progresiva_dron_m": 0,
+    "observacion": "En ambos vuelos se reconoce el inicio del enrocado y la corona. En agosto queda más lecho granular expuesto junto al pie visible.",
+    "revisar": "Nivel de agua y continuidad del pie; no se demuestra depósito nuevo.",
+    "metodo": "lectura visual asistida en Codex de las parejas GPS enero/agosto",
+    "estado": "pendiente de validación técnica",
+    "limite": "La progresiva corresponde al dron, no a todo el terreno visible"
+  },
+  {
+    "progresiva_dron_m": 100,
+    "observacion": "Se reconoce la aproximación a la estructura transversal. En enero el agua cubre mayor parte del espacio junto al dique; en agosto aparece un canal más estrecho.",
+    "revisar": "Distinguir menor inundación de cambio físico del lecho.",
+    "metodo": "lectura visual asistida en Codex de las parejas GPS enero/agosto",
+    "estado": "pendiente de validación técnica",
+    "limite": "La progresiva corresponde al dron, no a todo el terreno visible"
+  },
+  {
+    "progresiva_dron_m": 200,
+    "observacion": "La bocatoma y la curva del dique son referencias comunes. En agosto se ven más superficies granulares frente a la estructura.",
+    "revisar": "Contrastar cotas y niveles en el entorno de la bocatoma.",
+    "metodo": "lectura visual asistida en Codex de las parejas GPS enero/agosto",
+    "estado": "pendiente de validación técnica",
+    "limite": "La progresiva corresponde al dron, no a todo el terreno visible"
+  },
+  {
+    "progresiva_dron_m": 300,
+    "observacion": "La estructura transversal y su unión con el dique son reconocibles. En enero hay una lámina de agua más extensa; en agosto quedan expuestos materiales y un canal junto al enrocado.",
+    "revisar": "Zona prioritaria para inspeccionar la transición estructura-enrocado y el pie. Socavación no confirmada.",
+    "metodo": "lectura visual asistida en Codex de las parejas GPS enero/agosto",
+    "estado": "pendiente de validación técnica",
+    "limite": "La progresiva corresponde al dron, no a todo el terreno visible"
+  },
+  {
+    "progresiva_dron_m": 400,
+    "observacion": "Se reconoce el extremo de la losa y la curva de la corona. En agosto el cauce mojado se estrecha y aparecen piedras expuestas.",
+    "revisar": "Continuidad del pie y transición al extremo de la estructura.",
+    "metodo": "lectura visual asistida en Codex de las parejas GPS enero/agosto",
+    "estado": "pendiente de validación técnica",
+    "limite": "La progresiva corresponde al dron, no a todo el terreno visible"
+  },
+  {
+    "progresiva_dron_m": 500,
+    "observacion": "La curva del dique y el entorno son comparables. En agosto hay mayor superficie granular expuesta y maquinaria sobre la corona. La franja de piedra mantiene continuidad aparente.",
+    "revisar": "No inferir trabajos ejecutados o defectos a partir de la presencia aislada de maquinaria.",
+    "metodo": "lectura visual asistida en Codex de las parejas GPS enero/agosto",
+    "estado": "pendiente de validación técnica",
+    "limite": "La progresiva corresponde al dron, no a todo el terreno visible"
+  },
+  {
+    "progresiva_dron_m": 600,
+    "observacion": "Ambas vistas muestran la transición a una alineación más recta. En enero el agua ocupa una franja amplia; en agosto se distinguen canales estrechos entre materiales expuestos.",
+    "revisar": "Contrastar niveles antes de atribuir acumulación de sedimentos.",
+    "metodo": "lectura visual asistida en Codex de las parejas GPS enero/agosto",
+    "estado": "pendiente de validación técnica",
+    "limite": "La progresiva corresponde al dron, no a todo el terreno visible"
+  },
+  {
+    "progresiva_dron_m": 700,
+    "observacion": "La corona y el talud de piedra son reconocibles en ambos vuelos. En agosto el agua se concentra en canales entre barras expuestas.",
+    "revisar": "Inspeccionar el pie visible; no se aprecia una rotura inequívoca a esta escala.",
+    "metodo": "lectura visual asistida en Codex de las parejas GPS enero/agosto",
+    "estado": "pendiente de validación técnica",
+    "limite": "La progresiva corresponde al dron, no a todo el terreno visible"
+  },
+  {
+    "progresiva_dron_m": 800,
+    "observacion": "La alineación recta del dique permite reconocer el mismo entorno. En agosto se define un canal curvo junto a barras expuestas, frente a una lámina más amplia en enero.",
+    "revisar": "Ubicar el borde mojado y contrastar levantamientos para evaluar erosión o depósito.",
+    "metodo": "lectura visual asistida en Codex de las parejas GPS enero/agosto",
+    "estado": "pendiente de validación técnica",
+    "limite": "La progresiva corresponde al dron, no a todo el terreno visible"
+  },
+  {
+    "progresiva_dron_m": 900,
+    "observacion": "En agosto un canal curvo se aproxima al enrocado en el primer plano. En enero la superficie cubierta por agua es más extensa.",
+    "revisar": "Zona prioritaria para revisar el contacto agua-pie del enrocado. La imagen no prueba socavación ni permite medir su profundidad.",
+    "metodo": "lectura visual asistida en Codex de las parejas GPS enero/agosto",
+    "estado": "pendiente de validación técnica",
+    "limite": "La progresiva corresponde al dron, no a todo el terreno visible"
+  },
+  {
+    "progresiva_dron_m": 1000,
+    "observacion": "La franja de piedra conserva continuidad aparente en la vista frontal. En agosto se observa un canal próximo al dique y mayor exposición de material granular.",
+    "revisar": "Validar ubicación del terreno visible, que se prolonga más allá de 1+000 por la orientación de la cámara, y revisar el pie en campo.",
+    "metodo": "lectura visual asistida en Codex de las parejas GPS enero/agosto",
+    "estado": "pendiente de validación técnica",
+    "limite": "La progresiva corresponde al dron, no a todo el terreno visible"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "candidatos": 11,
+  "pares_preparados": [
+    "D0031",
+    "D0032",
+    "D0018",
+    "D0028",
+    "D0011",
+    "D0006",
+    "D0003",
+    "D0041",
+    "D0002",
+    "D0012",
+    "D0010"
+  ],
+  "area_candidatos_m2": 126.36,
+  "delimitacion": "franja conservadora: 10 m hacia río y 3 m hacia trasdós desde eje, ajustada por inspección visual de perfiles cada 100 m; no deslinde exacto",
+  "limite": "Puede excluir parte del pie o transiciones anchas; revisar geometría antes de medir omisiones. Fuera de franja no se evalúa."
+}

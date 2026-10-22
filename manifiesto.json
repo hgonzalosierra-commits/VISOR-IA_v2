@@ -1,0 +1,755 @@
+{
+  "estado": "preparado_localmente_no_publicado",
+  "archivos": [
+    {
+      "archivo": "referencias_100m/Enero_0000.jpg",
+      "bytes": 285529,
+      "sha256": "8521d4a0551d964050f5c2d748b831acfa36c02752e5efe09182f921fceabcdc"
+    },
+    {
+      "archivo": "referencias_100m/Enero_0100.jpg",
+      "bytes": 257273,
+      "sha256": "f6357e2e6797cb10268f90cdae14f1ff591c340b9ca07aa8b8e7848f8eb22b12"
+    },
+    {
+      "archivo": "referencias_100m/Enero_0200.jpg",
+      "bytes": 302313,
+      "sha256": "e59e6e9a9999fe1008be903eb8f86bc14ab301aba6a68825c37d66af3854684b"
+    },
+    {
+      "archivo": "referencias_100m/Enero_0300.jpg",
+      "bytes": 255024,
+      "sha256": "f7d65739498fb51d996c8fffb6868d66441750a8eefbdc9909a1650473727434"
+    },
+    {
+      "archivo": "referencias_100m/Enero_0400.jpg",
+      "bytes": 215599,
+      "sha256": "03b5fd3c42156219044565251efc93c2c10e82816890678c79793e9b38007afd"
+    },
+    {
+      "archivo": "referencias_100m/Enero_0500.jpg",
+      "bytes": 277837,
+      "sha256": "72a864a76cbc3384f496f43ec468a2ba99cbf278cfb5377ddffc54f3e4711da4"
+    },
+    {
+      "archivo": "referencias_100m/Enero_0600.jpg",
+      "bytes": 324750,
+      "sha256": "5855266ae41eb1d43711ff26e8a5a49841edcceeb7aecc949cbd071fb0498f2a"
+    },
+    {
+      "archivo": "referencias_100m/Enero_0700.jpg",
+      "bytes": 291408,
+      "sha256": "e0bef2b730f814330c59016fa82442ef2db575e8ce0d85331e299b2720abbe4f"
+    },
+    {
+      "archivo": "referencias_100m/Enero_0800.jpg",
+      "bytes": 256439,
+      "sha256": "47b370c78e3557746b8f0f59bee383c10909081a08fe4e1f842619a915f0f5a8"
+    },
+    {
+      "archivo": "referencias_100m/Enero_0900.jpg",
+      "bytes": 250656,
+      "sha256": "3dd751a37508ec87a8960ab64537ec242a7c35faddd7f3d7d60749bfd0d09c08"
+    },
+    {
+      "archivo": "referencias_100m/Enero_1000.jpg",
+      "bytes": 272548,
+      "sha256": "fa1aca77b015ecbc211a09d02fcf4989ae9c4e3754889e68b959d7d2517b3c29"
+    },
+    {
+      "archivo": "referencias_100m/Julio_0000.jpg",
+      "bytes": 278891,
+      "sha256": "f3f0083fe6a95224bf72dd8dbf63539738b2a93a487739e5727f525922610415"
+    },
+    {
+      "archivo": "referencias_100m/Julio_0100.jpg",
+      "bytes": 260313,
+      "sha256": "6fedbd82c23529cb5464df2a13f2c47c3592bb5525af7d87577df67b4eaf75db"
+    },
+    {
+      "archivo": "referencias_100m/Julio_0200.jpg",
+      "bytes": 298898,
+      "sha256": "7f983fe62b1b729f420120316ceab3e40698926cbc9f5aeb9b4681a847eb7b19"
+    },
+    {
+      "archivo": "referencias_100m/Julio_0300.jpg",
+      "bytes": 277885,
+      "sha256": "efb9f56c80d0704cc5bf19e19ffd36d9284afb11aa2b733af15145a7758a8638"
+    },
+    {
+      "archivo": "referencias_100m/Julio_0400.jpg",
+      "bytes": 226782,
+      "sha256": "b1afb0301891f369c923c66eb0a8af9484b1f5d1b0733dc516081f335013fa19"
+    },
+    {
+      "archivo": "referencias_100m/Julio_0500.jpg",
+      "bytes": 300678,
+      "sha256": "c782626fc72676b9c9b4aa7773aea8bd4a5d4d1565716e7db7cb8c4d40c953ef"
+    },
+    {
+      "archivo": "referencias_100m/Julio_0600.jpg",
+      "bytes": 334459,
+      "sha256": "6a940823d51e86404aef773d8f4af7e28800d1d256a61a9425f690ac2749ff6f"
+    },
+    {
+      "archivo": "referencias_100m/Julio_0700.jpg",
+      "bytes": 335414,
+      "sha256": "0cd773151711cf31e4662e464879f3fe2064304d1cf367885cba29183d104706"
+    },
+    {
+      "archivo": "referencias_100m/Julio_0800.jpg",
+      "bytes": 251823,
+      "sha256": "ef0bc98cc15b57b6beb3a74295827b152a2a4ec0da45463f421cbf5156f5c220"
+    },
+    {
+      "archivo": "referencias_100m/Julio_0900.jpg",
+      "bytes": 273808,
+      "sha256": "cc5246ced597b024275e1b7135cfcd54286a96187e1683773f8c9cc50be22397"
+    },
+    {
+      "archivo": "referencias_100m/Julio_1000.jpg",
+      "bytes": 269802,
+      "sha256": "47cf11812b0a4f4ad42761191591715297ca1acb9de9d53bb2c62baf5ea0c3b4"
+    },
+    {
+      "archivo": "sector_0000_0500/Enero_planta.jpg",
+      "bytes": 895299,
+      "sha256": "ac6cc3b54007dce30728f69a829bd557c2a67e849dc02dffe58ccfce3d9cf4d7"
+    },
+    {
+      "archivo": "sector_0000_0500/Julio_planta.jpg",
+      "bytes": 1048826,
+      "sha256": "96298431e8a8c826f3c081dcca4456e6a48315ba82b83cb043d61e43890cf961"
+    },
+    {
+      "archivo": "sector_0000_0500/analisis/candidatos.csv",
+      "bytes": 34461,
+      "sha256": "4a27b83687caae06b322373cd25f7bf3af70884844dbfa1dfd153d96c042a466"
+    },
+    {
+      "archivo": "sector_0000_0500/analisis/candidatos.geojson",
+      "bytes": 2142539,
+      "sha256": "70249bb48a45d7017654791e7e76ff81d8e08f9f113aeced27cf91e3e11d167e"
+    },
+    {
+      "archivo": "sector_0000_0500/analisis/mapa_candidatos.jpg",
+      "bytes": 394129,
+      "sha256": "7c1f943bc7ef38f653837cf4df21e6313121e6670caf33316fae7b83ffd34fe1"
+    },
+    {
+      "archivo": "sector_0000_0500/analisis/qa_alineacion.json",
+      "bytes": 745,
+      "sha256": "1c1304d197a86265ab59d1f8a51835c6f5e253ee407086e375a400934fb23d97"
+    },
+    {
+      "archivo": "sector_0000_0500/dique/D0002_Enero.jpg",
+      "bytes": 1837,
+      "sha256": "8c4bda94ca7abad04fe01733e059b5780e653fcbb24017551f99fcd5fc5eaa56"
+    },
+    {
+      "archivo": "sector_0000_0500/dique/D0002_Julio.jpg",
+      "bytes": 1813,
+      "sha256": "4500795a48f75a40aa82748412a2a05edc0f89649a8817642da6587fbcfb5e96"
+    },
+    {
+      "archivo": "sector_0000_0500/dique/D0003_Enero.jpg",
+      "bytes": 2253,
+      "sha256": "bb8cfc9593e86af356a6f1232f258cd00c035f7309401ca0e9b631f3d6943c3e"
+    },
+    {
+      "archivo": "sector_0000_0500/dique/D0003_Julio.jpg",
+      "bytes": 2275,
+      "sha256": "668a5f710cda6060ae5529d1da28651b8fe4cfc9965d7fae9134e696068114fd"
+    },
+    {
+      "archivo": "sector_0000_0500/dique/D0006_Enero.jpg",
+      "bytes": 2251,
+      "sha256": "3b95668b012feb734193aebc1dc875def73e704496ab9cec91eb7a99deb06f66"
+    },
+    {
+      "archivo": "sector_0000_0500/dique/D0006_Julio.jpg",
+      "bytes": 2225,
+      "sha256": "b96d563e4bc18931b5e168c6a434b5d06cbb0c41825559c4804776a2ca05fc08"
+    },
+    {
+      "archivo": "sector_0000_0500/dique/D0010_Enero.jpg",
+      "bytes": 1693,
+      "sha256": "f9fe40648d5e0054fd9537018027a5d61acdc541d0c5d83a29feebb4ec0d9509"
+    },
+    {
+      "archivo": "sector_0000_0500/dique/D0010_Julio.jpg",
+      "bytes": 1689,
+      "sha256": "7d28349dfde6fa6d6c8a40ce4be09ddd8a56bf14f8fd34473c815afd4da90ad9"
+    },
+    {
+      "archivo": "sector_0000_0500/dique/D0011_Enero.jpg",
+      "bytes": 2268,
+      "sha256": "219ef8912708dced5013edc9f53c057cef4ba5660f276bb65e2cf92d8bef810a"
+    },
+    {
+      "archivo": "sector_0000_0500/dique/D0011_Julio.jpg",
+      "bytes": 2257,
+      "sha256": "47cb935b48690b451fad8a7d145007ed470c3ef53c7c9247ba57b278c35a8a4b"
+    },
+    {
+      "archivo": "sector_0000_0500/dique/D0012_Enero.jpg",
+      "bytes": 1739,
+      "sha256": "b33c2ba56b301b990b75d0af8db7e56b395a0918f9ec75074de1ae43391587d6"
+    },
+    {
+      "archivo": "sector_0000_0500/dique/D0012_Julio.jpg",
+      "bytes": 1561,
+      "sha256": "2a54dcaa83c448bca5fcbda7c9016e8ac581337a20344ca60df59883f6eccd15"
+    },
+    {
+      "archivo": "sector_0000_0500/dique/D0018_Enero.jpg",
+      "bytes": 3974,
+      "sha256": "70adcb02a60456f4db1e9ae5d038310545cbd2979bad4601f6f913e89b26f2ff"
+    },
+    {
+      "archivo": "sector_0000_0500/dique/D0018_Julio.jpg",
+      "bytes": 4027,
+      "sha256": "12fde7299ed30d3f9222fad238b4c1d855a0f0dbf37aaee1d5009094ab0bc787"
+    },
+    {
+      "archivo": "sector_0000_0500/dique/D0028_Enero.jpg",
+      "bytes": 3017,
+      "sha256": "c5a80e5884475afb976d2ee37113bfa2708c885696e77908c9aee53209210bbe"
+    },
+    {
+      "archivo": "sector_0000_0500/dique/D0028_Julio.jpg",
+      "bytes": 3189,
+      "sha256": "9256fb76b92fa04cbb198b69e9ceed77b1a8f3e19d76050b2ae01fead2ff7fa8"
+    },
+    {
+      "archivo": "sector_0000_0500/dique/D0031_Enero.jpg",
+      "bytes": 4549,
+      "sha256": "3de3a1bf88ede92d87a6f08747c81987a800c266ea2f81b148863038a97a9316"
+    },
+    {
+      "archivo": "sector_0000_0500/dique/D0031_Julio.jpg",
+      "bytes": 4382,
+      "sha256": "db459e2a0a0f84417a1c08721c6e474e2d5ed8a2fc6675d41cf5adf2f3865add"
+    },
+    {
+      "archivo": "sector_0000_0500/dique/D0032_Enero.jpg",
+      "bytes": 3161,
+      "sha256": "57353846f017b2e06cd225038ec9ae6be963b444d572f5d976b1905aba8cdd06"
+    },
+    {
+      "archivo": "sector_0000_0500/dique/D0032_Julio.jpg",
+      "bytes": 3065,
+      "sha256": "33cc31983bec47d928f120983d56cff8000a08fd8949fddfea89482708e45b64"
+    },
+    {
+      "archivo": "sector_0000_0500/dique/D0041_Enero.jpg",
+      "bytes": 2332,
+      "sha256": "252e80d6ab19a351bf28fbc3c481e5805a4fa4cfef579699fc95bfa4eb1549e0"
+    },
+    {
+      "archivo": "sector_0000_0500/dique/D0041_Julio.jpg",
+      "bytes": 2316,
+      "sha256": "04f2ae476e441d9ce9609c6d30d80185a700d9a0360c3e93001fc1102b2c9324"
+    },
+    {
+      "archivo": "sector_0000_0500/dique/candidatos.csv",
+      "bytes": 1808,
+      "sha256": "bc4a5335d746b9aa2440323df081452cc0fb2806e638af23ca90b2d87f4c2674"
+    },
+    {
+      "archivo": "sector_0000_0500/dique/candidatos.geojson",
+      "bytes": 45160,
+      "sha256": "b31e7772061eed989bfdd97f5fa477e8de176ab7b34e425eda519cc86e0d51b2"
+    },
+    {
+      "archivo": "sector_0000_0500/dique/resumen.json",
+      "bytes": 550,
+      "sha256": "902e29624c3cd0643864bb22ae4426847e672ec1b34ac3ebf57c75afe7cad68a"
+    },
+    {
+      "archivo": "sector_0500_1000/Enero_planta.jpg",
+      "bytes": 1069191,
+      "sha256": "ecbc312b922d29199e7285d56e7159f3b51ca7414b64d4ca38ef482ce7872f1e"
+    },
+    {
+      "archivo": "sector_0500_1000/Julio_planta.jpg",
+      "bytes": 1191605,
+      "sha256": "b195d4e3df7e1ce7f01a06d02720b3ecc951ff8913b6aa8393109c52242f9bee"
+    },
+    {
+      "archivo": "sector_0500_1000/analisis/candidatos.csv",
+      "bytes": 84035,
+      "sha256": "885f7e9bffa368968498603dd59c275988c8f383394ec7f9105b916bed5aec12"
+    },
+    {
+      "archivo": "sector_0500_1000/analisis/candidatos.geojson",
+      "bytes": 4128001,
+      "sha256": "3aae2e74b610c6ebdbb2b0911352a794e5acea9f2dfa45a04e0e4db5093fba27"
+    },
+    {
+      "archivo": "sector_0500_1000/analisis/mapa_candidatos.jpg",
+      "bytes": 350687,
+      "sha256": "5084a0a344b4f46a179b25881314cc0e958cf702eaf189996a4091301568b580"
+    },
+    {
+      "archivo": "sector_0500_1000/analisis/qa_alineacion.json",
+      "bytes": 750,
+      "sha256": "e74e158db20bc2ddde98b2393b114f14709af9bfb4235cfe52381ae832204f5b"
+    },
+    {
+      "archivo": "sector_0500_1000/dique/D0001_Enero.jpg",
+      "bytes": 3277,
+      "sha256": "89e3385f97be65871f92a773e5fad02c46f9f8ba933496bdcdad76741597233d"
+    },
+    {
+      "archivo": "sector_0500_1000/dique/D0001_Julio.jpg",
+      "bytes": 3304,
+      "sha256": "99226f9b0fc2acbb5bc9ba65118ae4e385ca4144d03484b587a1b0dc7485a559"
+    },
+    {
+      "archivo": "sector_0500_1000/dique/D0013_Enero.jpg",
+      "bytes": 2078,
+      "sha256": "0f118a6b8a12907b93adcc88c6c09b66dabaf7df235891b773e12e01aa6b0846"
+    },
+    {
+      "archivo": "sector_0500_1000/dique/D0013_Julio.jpg",
+      "bytes": 2204,
+      "sha256": "a8dbcd7b8c5c0a28c88b880e0f55dbb028c7a37f908930f50b0b47f8ea178867"
+    },
+    {
+      "archivo": "sector_0500_1000/dique/D0018_Enero.jpg",
+      "bytes": 2216,
+      "sha256": "7629c9ad33dab52d86fe82b176ba2644fff8c39f52e227c978c5cbfcecf37e33"
+    },
+    {
+      "archivo": "sector_0500_1000/dique/D0018_Julio.jpg",
+      "bytes": 2142,
+      "sha256": "ccde002c8a911b060bf506c61724bf7d411b849345718c79653e96b5bc8205a2"
+    },
+    {
+      "archivo": "sector_0500_1000/dique/candidatos.csv",
+      "bytes": 574,
+      "sha256": "d982fdcc5cfc9e82e4cd004fa269519ffd99266fdeb7aa15149f36603358b9ce"
+    },
+    {
+      "archivo": "sector_0500_1000/dique/candidatos.geojson",
+      "bytes": 9052,
+      "sha256": "e9234b226aaa1bc43372f710f55e55b6669df7281b9e2b85579b5bcbc13a6ee2"
+    },
+    {
+      "archivo": "sector_0500_1000/dique/resumen.json",
+      "bytes": 436,
+      "sha256": "7fd8d08b568af508a715a55e51ae7ed75c951267ffad469664be2b815d7695e4"
+    },
+    {
+      "archivo": "videos_100m/Agosto_0000.jpg",
+      "bytes": 918218,
+      "sha256": "f99b7d0a367288b67d3e044d9032a8fcce85584f2ddb5fba385fab04227996ae"
+    },
+    {
+      "archivo": "videos_100m/Agosto_0100.jpg",
+      "bytes": 893155,
+      "sha256": "57d12eabba5ae94d32963aef571ecfe9bdb9a1c12de148398785a65384f5d6a1"
+    },
+    {
+      "archivo": "videos_100m/Agosto_0200.jpg",
+      "bytes": 900866,
+      "sha256": "e60f033e379c83a7a5215e191fdf0efd7e457280cf99105b71f96f67455c853c"
+    },
+    {
+      "archivo": "videos_100m/Agosto_0300.jpg",
+      "bytes": 907218,
+      "sha256": "29b9e7c175a509a24a5fe09ce411e5c141c6fbb2dbb910a6eaae0ca50228e4c8"
+    },
+    {
+      "archivo": "videos_100m/Agosto_0400.jpg",
+      "bytes": 858783,
+      "sha256": "077093419060e8aa5b40bbf1afdbf092527daeda3156f4c40261a88997833525"
+    },
+    {
+      "archivo": "videos_100m/Agosto_0500.jpg",
+      "bytes": 929464,
+      "sha256": "f8b3a233925202d4f2b2dcab61b68c5fa8725bde079f1eb41116d57f427204dd"
+    },
+    {
+      "archivo": "videos_100m/Agosto_0600.jpg",
+      "bytes": 940744,
+      "sha256": "7294c7519034e9b5cd241c14de80a43d319493fba71722e1add4eafc290fe435"
+    },
+    {
+      "archivo": "videos_100m/Agosto_0700.jpg",
+      "bytes": 909299,
+      "sha256": "9e31a80205f35289ec46f808ff03a1bde12dc36b0f9bcca3c162cefa7271ed97"
+    },
+    {
+      "archivo": "videos_100m/Agosto_0800.jpg",
+      "bytes": 909188,
+      "sha256": "579d6624b099a0016537edfb0de7a294a58beb3100f664e1b17a020833819c84"
+    },
+    {
+      "archivo": "videos_100m/Agosto_0900.jpg",
+      "bytes": 896048,
+      "sha256": "4e6609a6c14139eb69bd0d3c09cb6c9fe3f96abd78df796944b8b6036b66c145"
+    },
+    {
+      "archivo": "videos_100m/Agosto_1000.jpg",
+      "bytes": 830763,
+      "sha256": "8bc28a2b705a5326e76d3134483aef8bd4b609b420c3e5e8427513d8502d2d1e"
+    },
+    {
+      "archivo": "videos_100m/Enero_0000.jpg",
+      "bytes": 794468,
+      "sha256": "75f968836d3a7d38a8939e362ff5ea764016245fa2a08d72eee911a8f6533385"
+    },
+    {
+      "archivo": "videos_100m/Enero_0100.jpg",
+      "bytes": 820614,
+      "sha256": "2a2ee56a9a33e7d9d38d235a5d28c804adc0f35fa74204623df07d06ec88cbac"
+    },
+    {
+      "archivo": "videos_100m/Enero_0200.jpg",
+      "bytes": 808806,
+      "sha256": "893acef1885fcd83ab001e8f7e07a3897c76ceee7dc77a1b563a1e5c8b3f2bf3"
+    },
+    {
+      "archivo": "videos_100m/Enero_0300.jpg",
+      "bytes": 616956,
+      "sha256": "eb7852aad1c1ef8659f7afdebd5b81b91e428e0c51acb2e7b0976fa376588e61"
+    },
+    {
+      "archivo": "videos_100m/Enero_0400.jpg",
+      "bytes": 741401,
+      "sha256": "bae58c537f6ef040a7676510358ebb1f42c5538c957ab803e408512a432746d8"
+    },
+    {
+      "archivo": "videos_100m/Enero_0500.jpg",
+      "bytes": 845168,
+      "sha256": "2bd0fea84a1c2d3a145d537f7c6d7b5e3a998c88014d8d991790ec8a54a3210b"
+    },
+    {
+      "archivo": "videos_100m/Enero_0600.jpg",
+      "bytes": 712550,
+      "sha256": "79c6f7abab730c3ebfa8f837a88f5a92cf0671901d93133d510b96fb991073af"
+    },
+    {
+      "archivo": "videos_100m/Enero_0700.jpg",
+      "bytes": 795839,
+      "sha256": "fabf82293d4ddd68f9a72f417f1b03a45e2b97e939492d6950089b9c9cb8709a"
+    },
+    {
+      "archivo": "videos_100m/Enero_0800.jpg",
+      "bytes": 788348,
+      "sha256": "6df3725444b68ee91807e4e2158b2c41b964c9274281dbfc8c9f2523cbd5fcce"
+    },
+    {
+      "archivo": "videos_100m/Enero_0900.jpg",
+      "bytes": 775615,
+      "sha256": "a99ef8d22d184b6bb1911faae7c26b65de9e1d57aacf47d4ab4c727633ae83d7"
+    },
+    {
+      "archivo": "videos_100m/Enero_1000.jpg",
+      "bytes": 774110,
+      "sha256": "3ece80da794618b3ee5007c65bdf7ce6920eb4749f1613f7af8d27b8e3563c70"
+    },
+    {
+      "archivo": "videos_100m/inventario.json",
+      "bytes": 1018,
+      "sha256": "86d1911182f9a717c19c6f8bf2c9498bd5ffdea7002dc580f1cd9916336574d1"
+    },
+    {
+      "archivo": "videos_100m/observaciones_ia.json",
+      "bytes": 5927,
+      "sha256": "2fcd3324fc30a17c98e0ea3106672f0ddabf965a53e106cada28d953e690afa9"
+    },
+    {
+      "archivo": "videos_100m/referencias.csv",
+      "bytes": 8363,
+      "sha256": "64c2106c2afd888697077b311189d306ed67964b7720854b7f8fb83e75bcde00"
+    },
+    {
+      "archivo": "videos_galeria/Enero_000s.jpg",
+      "bytes": 664968,
+      "sha256": "9a6bcc8b8043c80fc99167deb1a693fdab979573b05dbde20f54c41e527c9427"
+    },
+    {
+      "archivo": "videos_galeria/Enero_005s.jpg",
+      "bytes": 656068,
+      "sha256": "2bddf75a2efb5f690384965c5be0c7e7ddfdf9fd4466913b4729ee01ec77b701"
+    },
+    {
+      "archivo": "videos_galeria/Enero_010s.jpg",
+      "bytes": 639649,
+      "sha256": "3bd566bbe8d03bdf2754739771153a631fd7f6282d1436849bb1510c7ef72abb"
+    },
+    {
+      "archivo": "videos_galeria/Enero_015s.jpg",
+      "bytes": 692017,
+      "sha256": "086f99fd94fb66b7f8c70013c88b389f7daee04b220dd92cb0438435aef8e64f"
+    },
+    {
+      "archivo": "videos_galeria/Enero_020s.jpg",
+      "bytes": 656824,
+      "sha256": "9d86e0e884acef1fa9b61a9c93276ef9cab29c33e2138d79e39028ab169b6db4"
+    },
+    {
+      "archivo": "videos_galeria/Enero_025s.jpg",
+      "bytes": 706481,
+      "sha256": "07706f47002b00f046fbee0021dd0b501e033ef0ea48ae46a4d3a0bfdefaf14a"
+    },
+    {
+      "archivo": "videos_galeria/Enero_030s.jpg",
+      "bytes": 579674,
+      "sha256": "598fc2946d656b352e3635d6ab6568c475d7eef1ec8902a8f7262ec2a0f88ef0"
+    },
+    {
+      "archivo": "videos_galeria/Enero_035s.jpg",
+      "bytes": 467135,
+      "sha256": "99566e3fe5299b7a13ab50db70b9fbeefb872c88cbfdc1da2ec76854eb78cbc0"
+    },
+    {
+      "archivo": "videos_galeria/Enero_040s.jpg",
+      "bytes": 518599,
+      "sha256": "8990de46b9035674eefd5eeed5ac44b125eea5b54bf40ca9299ea7f039234c03"
+    },
+    {
+      "archivo": "videos_galeria/Enero_045s.jpg",
+      "bytes": 595040,
+      "sha256": "f04f8a819923868d5ff27514be5d98d9aff31a2745b4ea5358da147c2f913613"
+    },
+    {
+      "archivo": "videos_galeria/Enero_050s.jpg",
+      "bytes": 628806,
+      "sha256": "7caf6ab752623e69e3f900d45bd4f9017407c968291558c22ae6d33de87da547"
+    },
+    {
+      "archivo": "videos_galeria/Enero_055s.jpg",
+      "bytes": 632219,
+      "sha256": "1299bf1183aacc2f1f7318beec54dc2fca1259f8154b6a8520791db2784a7bed"
+    },
+    {
+      "archivo": "videos_galeria/Enero_060s.jpg",
+      "bytes": 611318,
+      "sha256": "e6d3175e4be07945d2d9ed64242d9e4a254bc673d0a5141bcbd5bfc29b88de52"
+    },
+    {
+      "archivo": "videos_galeria/Enero_065s.jpg",
+      "bytes": 619074,
+      "sha256": "9a109a37a219f0a49082cf8c12323abb4bb5d8b0086752c31b78d01f00360b9d"
+    },
+    {
+      "archivo": "videos_galeria/Enero_070s.jpg",
+      "bytes": 619840,
+      "sha256": "a83262cfae80f26dc7806ec59e8f24224927e0d305b35c78fcf07dd54662d6b7"
+    },
+    {
+      "archivo": "videos_galeria/Enero_075s.jpg",
+      "bytes": 642444,
+      "sha256": "7249e447c1c6d6fd66dcaf4d071046e38454a3ba48189b6d24734b44a05792c1"
+    },
+    {
+      "archivo": "videos_galeria/Enero_080s.jpg",
+      "bytes": 612334,
+      "sha256": "95bc2d89b226e104c450fbe1a5bc04df747a5ef4df460cb8aacf161919282083"
+    },
+    {
+      "archivo": "videos_galeria/Enero_085s.jpg",
+      "bytes": 644576,
+      "sha256": "0262101fb35ab934fb32f9f469d8b4552bbf617a7c82a6b9eec520b2f00c6e63"
+    },
+    {
+      "archivo": "videos_galeria/Enero_090s.jpg",
+      "bytes": 620388,
+      "sha256": "934c63609715cdbfc9f7aefbaacdf8ee238adcca342f4aab2dbace514cd2b94a"
+    },
+    {
+      "archivo": "videos_galeria/Enero_095s.jpg",
+      "bytes": 612069,
+      "sha256": "5be3b82394e0aa798b8a0f77bd42f3b520e5539e7cb8b8f38054c184ba680505"
+    },
+    {
+      "archivo": "videos_galeria/Enero_100s.jpg",
+      "bytes": 638193,
+      "sha256": "1bd853e1987a7f1137855c635781345a4211bf71ff34e14dcb33b340b7ddc1d3"
+    },
+    {
+      "archivo": "videos_galeria/Enero_105s.jpg",
+      "bytes": 628733,
+      "sha256": "d4d65fc96d5915d974482c929fec68bd91c8fc6901445348e08a35b943a2df6d"
+    },
+    {
+      "archivo": "videos_galeria/Enero_110s.jpg",
+      "bytes": 609195,
+      "sha256": "837e3bc66e4a46825092ff7ffe73e261add4b7b2d1a518aa15df2024b2328596"
+    },
+    {
+      "archivo": "videos_galeria/Enero_115s.jpg",
+      "bytes": 599513,
+      "sha256": "6d3335e307ace9a0d6ced8a1d8f91be8a73ccb79eab02bfc96fd3f28dd0071c3"
+    },
+    {
+      "archivo": "videos_galeria/Enero_120s.jpg",
+      "bytes": 572110,
+      "sha256": "106d4af598dee128b89d2478f6668be06ba3c53d58f50370cf91bbe45a14de29"
+    },
+    {
+      "archivo": "videos_galeria/Enero_125s.jpg",
+      "bytes": 608634,
+      "sha256": "6b886d74a145a31a0af7ec216517623b04c01737078eb5ade8433d2392ae7b0c"
+    },
+    {
+      "archivo": "videos_galeria/Enero_130s.jpg",
+      "bytes": 547764,
+      "sha256": "d110f604c1111e30a4f103188d86d440dec7a9c1d4afacca1d5bf1bc3ee4470d"
+    },
+    {
+      "archivo": "videos_galeria/Enero_135s.jpg",
+      "bytes": 509553,
+      "sha256": "b6d71daaa92ac3679954bf35bbbe184cc7ddc1826741b7ac5ee851fd609768c1"
+    },
+    {
+      "archivo": "videos_galeria/Julio_000s.jpg",
+      "bytes": 744281,
+      "sha256": "a26993847151b60e886176bbbe1c0f0fd1817a429a330ac6eec9f67419c1c1be"
+    },
+    {
+      "archivo": "videos_galeria/Julio_005s.jpg",
+      "bytes": 732385,
+      "sha256": "e150039e31dd08367787ff4569dd460c8bea297a64ab7988a9154b6d45b375ef"
+    },
+    {
+      "archivo": "videos_galeria/Julio_010s.jpg",
+      "bytes": 729819,
+      "sha256": "d008f9c8c4ee6a7780ece631a3c43d4ec4dafd82e136e219c8db95b4a092661d"
+    },
+    {
+      "archivo": "videos_galeria/Julio_015s.jpg",
+      "bytes": 735817,
+      "sha256": "9b7aaac58e329788b4c164bd149f89878dc39c1366760bf51af8595b6f258d0e"
+    },
+    {
+      "archivo": "videos_galeria/Julio_020s.jpg",
+      "bytes": 747826,
+      "sha256": "1283b7d3da53a0f0add34b59006c39b9b66ad451bb5289427ed34f1ecec04568"
+    },
+    {
+      "archivo": "videos_galeria/Julio_025s.jpg",
+      "bytes": 739171,
+      "sha256": "cb63b649c77ccc4f197e85801f5390fed40f0e44fe1b1db38f2839b9826a966b"
+    },
+    {
+      "archivo": "videos_galeria/Julio_030s.jpg",
+      "bytes": 753539,
+      "sha256": "b0d73145dc0041c7cde6f80180e9efd419cb14ef4b3a55e4777d02fcdd41fad2"
+    },
+    {
+      "archivo": "videos_galeria/Julio_035s.jpg",
+      "bytes": 755173,
+      "sha256": "9d5cd5f3bac439fe9842cc8068eb6b591c8c5f1b9571d864b8cb899d05487279"
+    },
+    {
+      "archivo": "videos_galeria/Julio_040s.jpg",
+      "bytes": 732408,
+      "sha256": "f2ae4de0c8664f51a7f8fcaec1b69f0d44442ce571796396c5c04ae64cf17033"
+    },
+    {
+      "archivo": "videos_galeria/Julio_045s.jpg",
+      "bytes": 627045,
+      "sha256": "e990de81dd3d888ed1edfdab2c7fd9def46afc43c44fc13bb365b012ca6a0afa"
+    },
+    {
+      "archivo": "videos_galeria/Julio_050s.jpg",
+      "bytes": 725476,
+      "sha256": "6b91cdbaa25d124a2d691347a46f65f26ea409cbe1d8986106de73c56df5ec73"
+    },
+    {
+      "archivo": "videos_galeria/Julio_055s.jpg",
+      "bytes": 752764,
+      "sha256": "299bcc62f5a40a1a43d26228e2cf86082ab77f767a75716a609b5364ae8aa7cf"
+    },
+    {
+      "archivo": "videos_galeria/Julio_060s.jpg",
+      "bytes": 749473,
+      "sha256": "c94fa24c0bdb7ef87814a59614a9da42478cfe163c0df8337bf3015044fb64fd"
+    },
+    {
+      "archivo": "videos_galeria/Julio_065s.jpg",
+      "bytes": 761089,
+      "sha256": "1c6ab2c9c34a3a9572bfc3287a075c7ef858142f5b1742ff56830acfad5f4af5"
+    },
+    {
+      "archivo": "videos_galeria/Julio_070s.jpg",
+      "bytes": 756359,
+      "sha256": "3a17fc490e2cb9f7e2fd80bce87ac5cce14adf544aa06e64d485d666a0c3ef21"
+    },
+    {
+      "archivo": "videos_galeria/Julio_075s.jpg",
+      "bytes": 732428,
+      "sha256": "3055db44517d52ddcd6816c6641d073d8b64898e32a58eeebc3d2fb595f7624e"
+    },
+    {
+      "archivo": "videos_galeria/Julio_080s.jpg",
+      "bytes": 751283,
+      "sha256": "2596ab8411d9e42eb9969b0542fcc86c85a4103db257099f956f0c6ac1c233ac"
+    },
+    {
+      "archivo": "videos_galeria/Julio_085s.jpg",
+      "bytes": 740196,
+      "sha256": "6e8722c45cf8f4669c36d50553803a1f8d1197a154376e25d772299995392d93"
+    },
+    {
+      "archivo": "videos_galeria/Julio_090s.jpg",
+      "bytes": 732942,
+      "sha256": "45607237a0ffbeca9554923a3a5023cc5c292b7370ad89726604c3d71ee965c7"
+    },
+    {
+      "archivo": "videos_galeria/Julio_095s.jpg",
+      "bytes": 677308,
+      "sha256": "974c5355c7d155fa5fb58f9376d99a9adc01ef05bdd6b470a5e41a1651757953"
+    },
+    {
+      "archivo": "videos_galeria/Julio_100s.jpg",
+      "bytes": 689979,
+      "sha256": "a58ed2e4c5b68b0ab757f20fb120383d37c96d821b597996c9c41b072bf4a737"
+    },
+    {
+      "archivo": "videos_galeria/Julio_105s.jpg",
+      "bytes": 750420,
+      "sha256": "662b5ec5bc95c2df228d2084c6c0ffa52e5381b0089e37c9773e89976ba93f83"
+    },
+    {
+      "archivo": "videos_galeria/Julio_110s.jpg",
+      "bytes": 753833,
+      "sha256": "0ba493a0e52402391d5f515a57248205538198b5b4e7c1d378e1535e14938ba4"
+    },
+    {
+      "archivo": "videos_galeria/Julio_115s.jpg",
+      "bytes": 751694,
+      "sha256": "fa80a309588d22cfe79abcbc94efe34188544a742c540d5998b796bb8da598f6"
+    },
+    {
+      "archivo": "videos_galeria/Julio_120s.jpg",
+      "bytes": 720205,
+      "sha256": "ad46ec023073143b1b89429fdef6a9088d9e0961b939da5c2da973dadb931fcc"
+    },
+    {
+      "archivo": "videos_galeria/Julio_125s.jpg",
+      "bytes": 710661,
+      "sha256": "d70b609c924b4ab360709c3987b568da715bd9e13fa2874441afca0c6270d24b"
+    },
+    {
+      "archivo": "videos_galeria/Julio_130s.jpg",
+      "bytes": 695294,
+      "sha256": "02923c56a534f182a6a1b45b0ade2c1b117b0387d1c42dae5fc0055a21456a5c"
+    },
+    {
+      "archivo": "videos_galeria/Julio_135s.jpg",
+      "bytes": 638463,
+      "sha256": "792442a6098a1dc47e4297b021185a48545a49564aeea70e9558e97b30e8cf3a"
+    },
+    {
+      "archivo": "videos_galeria/Julio_140s.jpg",
+      "bytes": 633438,
+      "sha256": "534921b584f6acdd4ee3e9c839cb4374019de7577d788a0b525f18589bfc863c"
+    }
+  ]
+}

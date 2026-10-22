@@ -1,0 +1,4 @@
+﻿id,progresiva_ini,progresiva_fin,area_m2,este,norte,crs,ambito,limite_intervalo,estado_validacion,metodo
+D0001,977.19,992.06,10.16,358455.5456068627,8549974.722091302,EPSG:32718,cuerpo_dique,False,pendiente,diferencia_RGB_recortada_a_franja_conservadora_dique
+D0013,790.72,795.71,8.64,358276.6962338684,8549907.012708101,EPSG:32718,cuerpo_dique,False,pendiente,diferencia_RGB_recortada_a_franja_conservadora_dique
+D0018,797.8,802.16,7.32,358284.9436534191,8549905.107380232,EPSG:32718,cuerpo_dique,False,pendiente,diferencia_RGB_recortada_a_franja_conservadora_dique

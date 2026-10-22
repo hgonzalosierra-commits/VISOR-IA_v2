@@ -1,0 +1,25 @@
+{
+  "metodo": "SIFT ratio 0.65; correspondencias reciprocas no exigidas; una por celda de 5 m; traslacion robusta",
+  "resolucion_analisis_m": [
+    0.2,
+    0.2
+  ],
+  "puntos_preseleccionados": 97,
+  "validacion_humana_puntos": "pendiente",
+  "umbrales_experimentales": {
+    "min_puntos": 20,
+    "min_sectores_100m": 4,
+    "mediana_desplazamiento_m": 0.3,
+    "p95_desplazamiento_m": 0.6
+  },
+  "estado": "apto_exploratorio_pendiente_revision_humana",
+  "correccion_aplicada": false,
+  "puntos_consistentes": 97,
+  "sectores_cubiertos": 5,
+  "mediana_desplazamiento_m": 0.07460618336826293,
+  "p95_desplazamiento_m": 0.16177043994477344,
+  "traslacion_mediana_xy_m": [
+    0.04453125,
+    -0.037500000000000006
+  ]
+}

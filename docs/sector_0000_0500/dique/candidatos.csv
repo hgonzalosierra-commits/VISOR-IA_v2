@@ -1,0 +1,12 @@
+﻿id,progresiva_ini,progresiva_fin,area_m2,este,norte,crs,ambito,limite_intervalo,estado_validacion,metodo
+D0031,237.5,255.17,28.36,357905.33996100415,8549531.44369317,EPSG:32718,cuerpo_dique,False,pendiente,diferencia_RGB_recortada_a_franja_conservadora_dique
+D0032,225.69,236.78,20.48,357894.24194939004,8549522.232442731,EPSG:32718,cuerpo_dique,False,pendiente,diferencia_RGB_recortada_a_franja_conservadora_dique
+D0018,295.93,314.9,17.52,357948.3802930684,8549569.803554317,EPSG:32718,cuerpo_dique,False,pendiente,diferencia_RGB_recortada_a_franja_conservadora_dique
+D0028,265.49,278.26,10.96,357925.610616703,8549548.694178589,EPSG:32718,cuerpo_dique,False,pendiente,diferencia_RGB_recortada_a_franja_conservadora_dique
+D0011,422.99,430.05,9.52,357995.5435676937,8549679.23447792,EPSG:32718,cuerpo_dique,False,pendiente,diferencia_RGB_recortada_a_franja_conservadora_dique
+D0006,462.29,467.49,8.8,358014.2222689922,8549713.82593705,EPSG:32718,cuerpo_dique,False,pendiente,diferencia_RGB_recortada_a_franja_conservadora_dique
+D0003,473.34,478.52,8.12,358019.76179429475,8549722.931696113,EPSG:32718,cuerpo_dique,False,pendiente,diferencia_RGB_recortada_a_franja_conservadora_dique
+D0041,102.28,109.76,6.76,357803.065883839,8549436.50408659,EPSG:32718,cuerpo_dique,False,pendiente,diferencia_RGB_recortada_a_franja_conservadora_dique
+D0002,480.21,483.68,6.6,358023.12529929547,8549728.24411887,EPSG:32718,cuerpo_dique,False,pendiente,diferencia_RGB_recortada_a_franja_conservadora_dique
+D0012,391.0,396.53,4.68,357990.33636378625,8549644.984165486,EPSG:32718,cuerpo_dique,False,pendiente,diferencia_RGB_recortada_a_franja_conservadora_dique
+D0010,440.9,444.4,4.56,358002.625522581,8549693.910211371,EPSG:32718,cuerpo_dique,False,pendiente,diferencia_RGB_recortada_a_franja_conservadora_dique
